@@ -1,0 +1,10 @@
+*.swp
+*__pycache__
+.ipynb_checkpoints
+*.txt
+*.mp4
+data
+*labels
+*raw_videos
+test_dir
+train_log
